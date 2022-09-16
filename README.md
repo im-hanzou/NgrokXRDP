@@ -1,8 +1,7 @@
 # Windows 11 Free RDP One Hour
 Demo Lab with Windows 11 VM: https://lms.godeploy.it/DemoLabs/Register
 # Note
-- Using ngrok maybe can get unlimited session timeout (More than 1 Hour), so dont kill this script process at your Remote Desktop<br>
-- You can just minimize or hide the script window
+- Using ngrok maybe can get unlimited session timeout (More than 1 Hour), so dont kill this script process at your Remote Desktop. You can just minimize or hide the script window
 # Tutorial 
 - Register Ngrok at https://ngrok.com and save your ngrok authtoken.<br>
 - Download and extract this Repository to your Remote Desktop.<br>
